@@ -1,0 +1,84 @@
+body{
+	background: #ebebeb;
+}
+#header-wrap{
+	height:300px;
+	/*background: #000;*/
+	/*box-shadow: 1px 1px 10px #000;*/
+}
+
+#header-wrap #header-left{
+	position: absolute;
+	width: 21.7%;
+	min-height: 2060px;
+	background: rgba(20,195,130,0.1);
+	/*box-shadow: 1px 1px 10px #000;*/
+}
+#header-wrap #header-left .header-img{
+	margin: 15px auto;
+	width: 180px;
+	height:180px;
+	overflow: hidden;
+	border-radius: 200px;
+	background: #eee;
+	text-align: center;
+
+}
+#header-wrap #header-left .header-img img{
+	display: inline-block;
+	margin-top: -20px;
+	height:130%;
+	border-radius: 
+	
+}
+
+#header-wrap #header-left .header-contact ul{
+	margin-left: 30px;
+}
+
+#header-wrap #header-right{
+	position: relative;
+	height: 100%;
+	background: rgb(54,78,96);
+}
+
+#header-wrap #header-right #person-info{
+	
+	position: absolute;
+	top: 50%;
+	transform: translateY(40%);
+	webkit-transform: translateY(40%);
+	margin: 10px auto;
+	color: #fff;
+}
+#header-wrap #header-right #edu-info{
+	position: absolute;
+	top: 50%;
+	transform: translateY(40%);
+	webkit-transform: translateY(40%);
+	margin: 0 auto;
+	color: #fff;
+}
+
+#middle{
+	margin-top:10px;
+	margin-bottom: 20px;
+}
+
+#middle #experience{
+	margin-right: 4px;
+	height: 100%;
+	background: #fff;
+	/*box-shadow: 1px 1px 20px #000;*/
+	margin-bottom: 20px;
+}
+
+#middle #skills{
+	background: #fff;
+	margin-bottom: 20px;
+	/*box-shadow: 1px 1px 20px #000;*/
+}
+
+#middle #presentation{
+	background: #fff;
+}
