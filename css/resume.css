@@ -26,8 +26,10 @@ body{
 }
 #header-wrap #header-left .header-img img{
 	display: inline-block;
-	margin-top: -20px;
-	height:130%;
+	margin-top: -15px;
+	margin-left: -16px;
+	height:120%;
+	width: 120%;
 	border-radius: 
 	
 }
